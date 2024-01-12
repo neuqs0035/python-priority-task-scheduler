@@ -1,5 +1,5 @@
 print(" ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓ ")
-print(" ┃      TASK PRIORITY SCHEDULER      ┃ ")
+print(" ┃    TASK PRIORITY SCHEDULER    ┃ ")
 print(" ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛ ")
 
 while True:
