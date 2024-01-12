@@ -17,7 +17,7 @@ Before running the script, ensure you have the following installed:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/bhavya416/python-priority-task-scheduler.git
+   git clone https://github.com/neuqs0035/python-priority-task-scheduler.git
    cd python-priority-task-scheduler
    ```
 2. **Run Script:**
